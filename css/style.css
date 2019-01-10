@@ -156,7 +156,20 @@ header{
     cursor: pointer;
     padding: 8px 8px;
     font-size: 30px;
-    color: #010101;	
+    color: #010101;
+	transition: 0.5s ease;
+}
+.f-icon:hover{
+	color: #3b5998;
+}
+.t-icon:hover{
+	color: #1DA1F2;
+}
+.g-icon:hover{
+	color: #DD4B39;
+}
+.p-icon:hover{
+	color: #c8232c;
 }
 /* end submit area */
 /* start footer area */
